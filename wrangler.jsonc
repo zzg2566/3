@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "yiyang-boc-newcomers",
+  "main": "vinext/server/fetch-handler",
+  "compatibility_date": "2026-07-31",
+  "compatibility_flags": ["nodejs_compat"]
+}
